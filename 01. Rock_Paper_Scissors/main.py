@@ -4,6 +4,7 @@ user_wins = 0
 computer_wins = 0
 options = ["rock", "paper", "scissors"]
 
+
 def print_score():
     print("Your wins:", user_wins)
     print("Computer wins:", computer_wins)
